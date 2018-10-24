@@ -1,0 +1,2 @@
+const scriptElem = document.createElement("script");
+document.querySelector("body").appendChild(scriptElem);
