@@ -1,0 +1,10 @@
+doctype html
+html
+        head
+                title BATMAN
+        body
+                h1 This page is about Batman
+                p.
+                        He is my favorite superhero.
+                        he never uses guns.
+                        he always fights the joker.
